@@ -1,71 +1,73 @@
-# Decred Foundational Messaging
+# Việc nhắn tin nền tảng của Decred
  
-This messaging document is the backbone of all communications, including external marketing content (e.g., web copy, press releases, etc) and internal correspondence. It can be expanded, contracted, or tailored as needed.
- 
- 
-## AUDIENCES
- 
-Decred aims to reach a wide array of discrete audiences, from Bitcoin maximalists to Futurists. For high-level messaging purposes, these audiences can be grouped under three umbrellas:
- 
-* Technical audience: Developers, members of the Decred community, and people who are familiar with the technical nuances of blockchain technology.
-* Investor audience: Individual and institutional investors who either already invest in or are interested in investing in cryptocurrency.
-* Mainstream audience: Newbies to crypto and blockchain who are frustrated with the status quo of the current financial system, rentiers, and third-party intermediaries, and are interested in the promise of crypto and blockchain.
- 
-## WHAT IS DECRED?
- 
-Decred is a community-directed digital currency designed to be a superior store of value for generations to come.
-* Its hybrid PoW+PoS consensus mechanism, transparent proposal and voting system, and continually funded treasury, make it secure, adaptable, and self-sustaining.
-* Decred stakeholders collectively determine the policy, development plan, budget, changes to the consensus rules, and they approve the miners’ work.
-* Each block reward compensates miners, stakeholders, and the project Treasury (that pays contractors who work on Decred).
+Tài liệu nhắn tin này là xương sống của tất cả các thông tin liên lạc, bao gồm nội dung tiếp thị bên ngoài (ví dụ: bản sao web, thông cáo báo chí, v.v.) và thư từ nội bộ. Nó có thể được mở rộng, được thu hẹp, hoặc tùy chỉnh khi cần thiết.
  
  
-## TAGLINE
-Decred: Secure. Adaptable. Self-Funding.
+## ĐỐI TƯỢNG
  
-## VISION STATEMENT
-This is an aspirational description of what Decred aims to achieve in the long-term.
+Decred nhằm mục đích tiếp cận nhiều đối tượng riêng biệt, từ những người theo chủ nghĩa tối đa (maximalists) Bitcoin đến những người theo thuyết vị lai (futurists). Đối với mục đích nhắn tin cấp cao, những đối tượng này có thể được nhóm lại dưới ba ô.:
  
-Decred’s vision is to build a self-directed, decentralized future ruled by the collective intelligence of the community. It will be built upon the pillars of sovereignty, transparency, inclusivity, privacy, and security. Everyone can vote on the rules and project-level decision making proportionately to their stake, yielding decisions and policies in the best interest of all — not just a select few.
+* Đối tượng kỹ thuật: Các nhà phát triển, thành viên của cộng đồng Decred và những người quen thuộc với các sắc thái kỹ thuật của công nghệ blockchain.
+* Đối tượng nhà đầu tư: Nhà đầu tư cá nhân và tổ chức, những người đã đầu tư vào hoặc quan tâm đến đầu tư vào tiền điện tử.
+* Đối tượng chính: Những người mới sử dụng tiền điện tử và blockchain, những người thất vọng với hiện trạng của hệ thống tài chính hiện tại, người cho thuê và các trung gian bên thứ ba và quan tâm đến sự hứa hẹn về tiền điện tử và blockchain.
  
-## MISSION STATEMENT
+## DECRED LÀ GÌ?
  
-This is a short description of what Decred aims to achieve in the short- and medium-term.
+Decred là một loại tiền kỹ thuật số hướng đến cộng đồng được thiết kế để trở thành một kho lưu trữ giá trị vượt trội cho các thế hệ tiếp theo.
+* Cơ chế đồng thuận PoW + PoS lai của nó, hệ thống đề xuất và bỏ phiếu minh bạch, và kho bạc được tài trợ liên tục, làm cho nó an toàn, thích nghi và tự duy trì.
+* Các bên liên quan đã quyết định cùng nhau xác định chính sách, kế hoạch phát triển, ngân sách, thay đổi các quy tắc đồng thuận và họ chấp thuận công việc khai thác.
+* Mỗi phần thưởng khối (block reward) bù cho các nhà khai thác (minor), các bên liên quan và Kho bạc của dự án (trả tiền cho các nhà thầu làm việc trên Decred).
  
-Decred aims to be a self-funded and self-directed digital currency whose security and adaptability make it a superior store of value.
+ 
+## KHẨU HIỆU
+Decred: Đảm bảo. Thích nghi. Tự gây quy.
+ 
+## TẦM NHÌN CHIẾN LƯỢC
+Đây là một mô tả đầy khát vọng về những gì Decred nhắm đến trong dài hạn.
 
-## POSITIONING STATEMENTS
-How Decred is distinct from its competitors for each audience
+Tầm nhìn của Decred là xây dựng một tương lai tự định hướng, phi tập trung được chỉ huy bởi trí tuệ tập thể của cộng đồng. Nó sẽ được xây dựng dựa trên các trụ cột của chủ quyền, minh bạch, chính sách, riêng tư và bảo mật. Mọi người đều có thể bỏ phiếu về các quy tắc và quyết định cấp dự án theo tỷ lệ tương ứng với cổ phần của họ, mang lại các quyết định và chính sách có lợi nhất cho tất cả mọi người - không chỉ một vài người được lựa chọn.
  
-### Technical Audience
-Decred is designed to provide developers and community members with the most secure and adaptable digital currency. It does so through on- and off-chain governance systems that leverage multi-stakeholder inclusivity to make collective decisions on consensus changes, block approval, budget, policy and the development plan. Decred’s self-sustaining (10% of all block rewards go into the Treasury), flexible contractor model allow for contributors to join Decred at any time to work on open-source projects they find most interesting and fulfilling.
+## TUYÊN BỐ SỨ MỆNH
  
-### Investor Audience
-Decred is a digital currency designed to be a superior store of value. The hybrid PoW+PoS consensus system provides an additional layer of network security, while stakeholders control budget and policy to make the currency more adaptable. With ten percent of each block reward going to the project Treasury, Decred is completely self-funded. This financial model reduces conflicts of interest and enables ongoing development powered by a unique contractor model that allows contributors to receive payment for work they find interesting. Together these systems provide solid protection against value-loss events like chain splits and hard forks, giving Decred the resilience to stand the test of time.
+Đây là một mô tả ngắn về những gì Decred nhắm đến để đạt được trong ngắn hạn và trung hạn.
  
-### Mainstream Audience
-Decred is a community-directed digital currency designed to deliver a truly decentralized alternative to traditional money. In the current system, a centralized authority such as a bank or government holds the power. With Decred, the community members own and operate the system, make the rules, and determine the direction of the project. The result is a secure and adaptable currency that is a superior store of value. Everyone is invested and actively involved in helping Decred succeed.  
+Decred đặt mục tiêu trở thành một loại tiền kỹ thuật số tự tài trợ và tự định hướng mà tính bảo mật và khả năng thích ứng của nó làm cho nó trở thành một kho lưu trữ giá trị vượt trội.
 
-## TERMS TO DESCRIBE DECRED
-- Adaptable
-- Cohesive
-- Community-directed
-- Decentralized
-- Enduring
-- Minority fork-resistant
-- Future-focused
-- Inclusive
-- Iterative
-- Hybrid PoW+PoS
-- OG (Original gangsters - founders involved since BTC Suite)
-- Pioneers
-- Rebellious
-- Reliable
-- Resilient
-- Revolutionary
-- Secure
-- Serious dev talent
-- Self-directed
-- Self-sustaining/Self-funding/Self-starters
-- Sovereign
-- Transparent
-- Values-based
+## TUYÊN BỐ VỊ TRÍ
+Làm thế nào Decred khác biệt với các đối thủ cạnh tranh của nó đối với từng đối tượng
+ 
+### Đối tượng kỹ thuật
+Decred được thiết kế để cung cấp cho các nhà phát triển và thành viên cộng đồng loại tiền kỹ thuật số an toàn và dễ thích nghi nhất. Nó làm như vậy thông qua các hệ thống quản trị trong và ngoài chuỗi tận dụng sự bao gồm của nhiều bên liên quan để đưa ra quyết định tập thể về thay đổi đồng thuận, phê duyệt khối, ngân sách, chính sách và kế hoạch phát triển. Decred đang tự duy trì (10% tổng số phần thưởng khối vào Kho bạc), mô hình nhà thầu linh hoạt cho phép những người đóng góp tham gia Decred bất cứ lúc nào để làm việc trong các dự án nguồn mở mà họ thấy thú vị và thoả mãn nhất.
+ 
+### Đối tượng đầu tư
+Decred là một loại tiền kỹ thuật số được thiết kế để trở thành một kho lưu trữ giá trị vượt trội. Hệ thống đồng thuận PoW + PoS lai cung cấp thêm một lớp bảo mật mạng, trong khi các bên liên quan kiểm soát ngân sách và chính sách để làm cho tiền tệ dễ thích nghi hơn. Với mười phần trăm của mỗi phần thưởng khối được chuyển đến Kho bạc của dự án, Decred hoàn toàn tự cấp vốn. Mô hình tài chính này làm giảm xung đột lợi ích và cho phép phát triển liên tục được cung cấp bởi một mô hình nhà thầu duy nhất cho phép những người đóng góp nhận thanh toán cho công việc mà họ thấy thú vị. Các hệ thống này cùng nhau cung cấp sự bảo vệ vững chắc trước các sự kiện mất giá trị như chia tách chuỗi và các nhánh cứng, mang lại cho Decred khả năng phục hồi để đứng trước thử thách của thời gian.
+ 
+### Đối tượng chính
+Decred là một loại tiền kỹ thuật số hướng đến cộng đồng được thiết kế để cung cấp một sự thay thế thực sự phi tập trung cho tiền truyền thống. Trong hệ thống hiện tại, một cơ quan tập trung như ngân hàng hoặc chính phủ nắm quyền lực. Với Decred, các thành viên cộng đồng sở hữu và vận hành hệ thống, đưa ra các quy tắc và xác định hướng của dự án. Kết quả là một loại tiền tệ an toàn và có thể thích ứng, là một kho lưu trữ giá trị vượt trội. Mọi người đều được đầu tư và tích cực tham gia để giúp Decred thành công.
+
+## CÁC THUẬT NGỮ MÔ TẢ DECRED
+- Thích ứng
+- Liên kết
+- Hướng đến cộng đồng
+- Phi tập trung
+- Bền bỉ
+- Chống chia nhánh thiểu số
+- Tập trung vào tương lai
+- Tính toàn bộ
+- Tính lặp lại
+- Lai PoW + PoS
+- OG ("Băng đảng" - những người sáng lập gốc đã tham gia kể từ BTC Suite)
+- Tiên phong
+- Chống đối
+- Đáng tin
+- Sôi động
+- Cách mạng
+- Bảo mật
+- Những nhà phát triển có tiềm năng
+- Tự định hướng
+- Tự duy trì/tự cung cấp/Tự bắt đầu
+- Không giới hạn
+- Minh bạch
+- Gía trị nền tảng
+
+Dịch bởi: Duyên Em.
