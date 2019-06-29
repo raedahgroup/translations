@@ -1,3 +1,5 @@
+Link gốc: https://gist.github.com/oregonisaac/fa82fc299696729d3eca51eb5a64587e#file-decredfoundationalmessaging-md
+
 # Đôi lời về Decred
  
 Tài liệu này là xương sống của tất cả các thông tin liên lạc, bao gồm nội dung tiếp thị bên ngoài (ví dụ: bản sao web, thông cáo báo chí, v.v.) và thư từ nội bộ. Nó có thể được mở rộng, được thu hẹp, hoặc tùy chỉnh khi cần thiết.
@@ -71,3 +73,5 @@ Decred là một loại tiền kỹ thuật số hướng đến cộng đồng 
 - Gía trị nền tảng
 
 Dịch bởi: Duyên Em.
+
+Link gốc: https://gist.github.com/oregonisaac/fa82fc299696729d3eca51eb5a64587e#file-decredfoundationalmessaging-md
