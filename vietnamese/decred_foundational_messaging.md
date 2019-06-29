@@ -1,11 +1,11 @@
-# Việc nhắn tin nền tảng của Decred
+# Đôi lời về Decred
  
-Tài liệu nhắn tin này là xương sống của tất cả các thông tin liên lạc, bao gồm nội dung tiếp thị bên ngoài (ví dụ: bản sao web, thông cáo báo chí, v.v.) và thư từ nội bộ. Nó có thể được mở rộng, được thu hẹp, hoặc tùy chỉnh khi cần thiết.
+Tài liệu này là xương sống của tất cả các thông tin liên lạc, bao gồm nội dung tiếp thị bên ngoài (ví dụ: bản sao web, thông cáo báo chí, v.v.) và thư từ nội bộ. Nó có thể được mở rộng, được thu hẹp, hoặc tùy chỉnh khi cần thiết.
  
  
 ## ĐỐI TƯỢNG
  
-Decred nhằm mục đích tiếp cận nhiều đối tượng riêng biệt, từ những người theo chủ nghĩa tối đa (maximalists) Bitcoin đến những người theo thuyết vị lai (futurists). Đối với mục đích nhắn tin cấp cao, những đối tượng này có thể được nhóm lại dưới ba ô.:
+Decred nhằm mục đích tiếp cận nhiều đối tượng riêng biệt, từ những người theo chủ nghĩa (maximalists) Bitcoin tối đa đến những người theo thuyết vị lai (futurists). Đối với mục đích nhắn tin cấp cao, những đối tượng này có thể được nhóm lại dưới ba đối tượng:
  
 * Đối tượng kỹ thuật: Các nhà phát triển, thành viên của cộng đồng Decred và những người quen thuộc với các sắc thái kỹ thuật của công nghệ blockchain.
 * Đối tượng nhà đầu tư: Nhà đầu tư cá nhân và tổ chức, những người đã đầu tư vào hoặc quan tâm đến đầu tư vào tiền điện tử.
@@ -37,10 +37,10 @@ Decred đặt mục tiêu trở thành một loại tiền kỹ thuật số t�
 Làm thế nào Decred khác biệt với các đối thủ cạnh tranh của nó đối với từng đối tượng
  
 ### Đối tượng kỹ thuật
-Decred được thiết kế để cung cấp cho các nhà phát triển và thành viên cộng đồng loại tiền kỹ thuật số an toàn và dễ thích nghi nhất. Nó làm như vậy thông qua các hệ thống quản trị trong và ngoài chuỗi tận dụng sự bao gồm của nhiều bên liên quan để đưa ra quyết định tập thể về thay đổi đồng thuận, phê duyệt khối, ngân sách, chính sách và kế hoạch phát triển. Decred đang tự duy trì (10% tổng số phần thưởng khối vào Kho bạc), mô hình nhà thầu linh hoạt cho phép những người đóng góp tham gia Decred bất cứ lúc nào để làm việc trong các dự án nguồn mở mà họ thấy thú vị và thoả mãn nhất.
+Decred được thiết kế để cung cấp cho các nhà phát triển và thành viên cộng đồng loại tiền kỹ thuật số an toàn và dễ thích nghi nhất. Nó làm như vậy thông qua các hệ thống quản trị trong và ngoài chuỗi tận dụng sự bao gồm của nhiều bên liên quan để đưa ra quyết định tập thể về thay đổi đồng thuận, phê duyệt khối, ngân sách, chính sách và kế hoạch phát triển. Decred đang tự duy trì (10% tổng số phần thưởng từ mỗi block được chuyển vào kho bạc), mô hình nhà thầu linh hoạt cho phép những người đóng góp tham gia Decred bất cứ lúc nào để làm việc trong các dự án nguồn mở mà họ thấy thú vị và thoả mãn nhất.
  
 ### Đối tượng đầu tư
-Decred là một loại tiền kỹ thuật số được thiết kế để trở thành một kho lưu trữ giá trị vượt trội. Hệ thống đồng thuận PoW + PoS lai cung cấp thêm một lớp bảo mật mạng, trong khi các bên liên quan kiểm soát ngân sách và chính sách để làm cho tiền tệ dễ thích nghi hơn. Với mười phần trăm của mỗi phần thưởng khối được chuyển đến Kho bạc của dự án, Decred hoàn toàn tự cấp vốn. Mô hình tài chính này làm giảm xung đột lợi ích và cho phép phát triển liên tục được cung cấp bởi một mô hình nhà thầu duy nhất cho phép những người đóng góp nhận thanh toán cho công việc mà họ thấy thú vị. Các hệ thống này cùng nhau cung cấp sự bảo vệ vững chắc trước các sự kiện mất giá trị như chia tách chuỗi và các nhánh cứng, mang lại cho Decred khả năng phục hồi để đứng trước thử thách của thời gian.
+Decred là một loại tiền kỹ thuật số được thiết kế để trở thành một kho lưu trữ giá trị vượt trội. Hệ thống PoW kết hợp với PoS cung cấp thêm một lớp bảo mật mạng, trong khi các bên liên quan kiểm soát ngân sách và chính sách để làm cho tiền tệ dễ thích nghi hơn. Với mười phần trăm phần thưởng của mỗi block được chuyển vào kho bạc của dự án, Decred hoàn toàn tự cấp vốn. Mô hình tài chính này làm giảm xung đột lợi ích và cho phép phát triển liên tục được cung cấp bởi một mô hình nhà thầu duy nhất cho phép những người đóng góp nhận thanh toán cho công việc mà họ thấy thú vị. Các hệ thống này cùng nhau cung cấp sự bảo vệ vững chắc trước các sự kiện mất giá trị như chia chuỗi (chain splits) và hard fork, mang lại cho Decred khả năng phục hồi để đứng trước thử thách của thời gian.
  
 ### Đối tượng chính
 Decred là một loại tiền kỹ thuật số hướng đến cộng đồng được thiết kế để cung cấp một sự thay thế thực sự phi tập trung cho tiền truyền thống. Trong hệ thống hiện tại, một cơ quan tập trung như ngân hàng hoặc chính phủ nắm quyền lực. Với Decred, các thành viên cộng đồng sở hữu và vận hành hệ thống, đưa ra các quy tắc và xác định hướng của dự án. Kết quả là một loại tiền tệ an toàn và có thể thích ứng, là một kho lưu trữ giá trị vượt trội. Mọi người đều được đầu tư và tích cực tham gia để giúp Decred thành công.
@@ -55,7 +55,7 @@ Decred là một loại tiền kỹ thuật số hướng đến cộng đồng 
 - Tập trung vào tương lai
 - Tính toàn bộ
 - Tính lặp lại
-- Lai PoW + PoS
+- PoW kết hợp PoS
 - OG ("Băng đảng" - những người sáng lập gốc đã tham gia kể từ BTC Suite)
 - Tiên phong
 - Chống đối
